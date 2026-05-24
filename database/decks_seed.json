@@ -1,0 +1,20 @@
+[
+  {
+    "ownerEmail": "mia@studyhub.test",
+    "title": "JavaScript Interview Essentials",
+    "topic": "Frontend",
+    "visibility": "shared"
+  },
+  {
+    "ownerEmail": "mia@studyhub.test",
+    "title": "Database Revision Sprint",
+    "topic": "Data Systems",
+    "visibility": "private"
+  },
+  {
+    "ownerEmail": "liam@studyhub.test",
+    "title": "UX Writing Warmups",
+    "topic": "UX Writing",
+    "visibility": "shared"
+  }
+]

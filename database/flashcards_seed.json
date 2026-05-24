@@ -1,0 +1,26 @@
+[
+  {
+    "deckTitle": "JavaScript Interview Essentials",
+    "question": "What is event delegation in JavaScript?",
+    "answer": "Event delegation attaches one listener to a parent element and reacts to bubbled events from matching child elements.",
+    "masteryLevel": 2
+  },
+  {
+    "deckTitle": "JavaScript Interview Essentials",
+    "question": "Why is the cleanup function in useEffect important?",
+    "answer": "It prevents stale subscriptions, duplicate listeners, and memory leaks when a component rerenders or unmounts.",
+    "masteryLevel": 3
+  },
+  {
+    "deckTitle": "Database Revision Sprint",
+    "question": "What does a foreign key do in a relational database?",
+    "answer": "A foreign key links a child row to a parent row and helps preserve referential integrity between tables.",
+    "masteryLevel": 4
+  },
+  {
+    "deckTitle": "UX Writing Warmups",
+    "question": "What is microcopy in interface design?",
+    "answer": "Microcopy is the short text around controls, feedback, and forms that helps users understand what to do next.",
+    "masteryLevel": 4
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "studyhub-academy",
+  "version": "2.0.0",
+  "description": "Assignment 2 single-page learning platform built with Vue, Express, and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "check": "node --check server.js && node --check server/config.js && node --check server/db.js && node --check server/security.js && node --check server/auth.js && node --check server/validators.js"
+  },
+  "keywords": [
+    "assignment-2",
+    "vue",
+    "express",
+    "mysql",
+    "jwt",
+    "flashcards"
+  ],
+  "author": "Student Assignment",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "vue": "^3.5.13"
+  }
+}

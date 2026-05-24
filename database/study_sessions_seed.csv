@@ -1,0 +1,5 @@
+student_email,deck_title,flashcard_question,outcome,duration_minutes,notes,studied_at
+mia@studyhub.test,JavaScript Interview Essentials,What is event delegation in JavaScript?,Needs review,25,Still mixing up bubbling and capturing in explanations.,2026-05-20 18:30:00
+mia@studyhub.test,Database Revision Sprint,Why are transactions useful in database-backed apps?,Good progress,30,Transaction examples make more sense after the lab practice.,2026-05-21 20:15:00
+mia@studyhub.test,JavaScript Interview Essentials,Why is the cleanup function in useEffect important?,Mastered,18,Comfortable explaining cleanup with real React examples now.,2026-05-22 19:10:00
+liam@studyhub.test,UX Writing Warmups,What makes a button label more accessible?,Good progress,22,Good reminder to prefer specific button labels over generic wording.,2026-05-22 21:40:00

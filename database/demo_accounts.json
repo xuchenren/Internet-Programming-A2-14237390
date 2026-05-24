@@ -1,0 +1,20 @@
+[
+  {
+    "role": "admin",
+    "fullName": "Avery Chen",
+    "email": "admin@studyhub.test",
+    "password": "StudyHub!2026"
+  },
+  {
+    "role": "student",
+    "fullName": "Mia Patel",
+    "email": "mia@studyhub.test",
+    "password": "StudyHub!2026"
+  },
+  {
+    "role": "student",
+    "fullName": "Liam Nguyen",
+    "email": "liam@studyhub.test",
+    "password": "StudyHub!2026"
+  }
+]

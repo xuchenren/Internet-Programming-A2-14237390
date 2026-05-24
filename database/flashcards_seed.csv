@@ -1,0 +1,5 @@
+deck_title,question,answer,mastery_level
+JavaScript Interview Essentials,What is event delegation in JavaScript?,Event delegation attaches one listener to a parent element and reacts to bubbled events from matching child elements.,2
+JavaScript Interview Essentials,Why is the cleanup function in useEffect important?,It prevents stale subscriptions duplicate listeners and memory leaks when a component rerenders or unmounts.,3
+Database Revision Sprint,What does a foreign key do in a relational database?,A foreign key links a child row to a parent row and helps preserve referential integrity between tables.,4
+UX Writing Warmups,What is microcopy in interface design?,Microcopy is the short text around controls feedback and forms that helps users understand what to do next.,4
